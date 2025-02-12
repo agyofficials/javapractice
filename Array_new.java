@@ -27,7 +27,7 @@ public class Array_new {
     array[4] = 55;
 
     System.out.println("This is a variable " + variable); //this is how we call the value of a variable
-    System.out.println("This is an array " + array[4]);
+    System.out.println("This is an array " + array[4]); //this is how we call the element inside the index of the array
 
 
 
